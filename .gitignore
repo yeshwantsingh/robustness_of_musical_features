@@ -1,0 +1,9 @@
+data/
+.idea/
+features
+*.json
+*.txt
+*.svg
+*.eps
+*.mp3
+*.h5
